@@ -10,7 +10,7 @@
 <sup>\*</sup>denotes equal contribution
 
 <p align="center">
-<img src="figs/pipeline.jpg" alt="intro" width="100%"/>
+<img src="figs/pipeline.png" alt="intro" width="100%"/>
 </p>
 
 ## Abstract
