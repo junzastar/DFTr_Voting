@@ -26,6 +26,14 @@ Please follow [FFB6D](https://github.com/ethnhe/FFB6D) to prepare the datasets a
 
 ## Citation
 If you find the code useful, please cite our paper.
+```bash
+@article{zhou2023deep,
+  title={Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation},
+  author={Zhou, Jun and Chen, Kai and Xu, Linlin and Dou, Qi and Qin, Jing},
+  journal={arXiv preprint arXiv:2308.05438},
+  year={2023}
+}
+```
 
 ## Acknowledgment
 Thanks to the authors for providing the [MP6D](https://github.com/yhan9848/MP6D) dataset. Our code is developed based on [FFB6D](https://github.com/ethnhe/FFB6D) and [Fang](https://github.com/DocF/multispectral-object-detection/tree/main). We thank the authors for providing the source code.
